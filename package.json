@@ -25,6 +25,9 @@
     "url": "https://github.com/brajkowski/connect4-multiplayer-common/issues"
   },
   "homepage": "https://github.com/brajkowski/connect4-multiplayer-common#readme",
+  "release": {
+    "branches": ["main", {"name": "beta", "prerelease": true}]
+  },
   "devDependencies": {
     "rimraf": "^3.0.2",
     "semantic-release": "^17.4.2",
