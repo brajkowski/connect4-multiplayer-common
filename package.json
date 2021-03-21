@@ -27,6 +27,7 @@
   "homepage": "https://github.com/brajkowski/connect4-multiplayer-common#readme",
   "devDependencies": {
     "rimraf": "^3.0.2",
+    "semantic-release": "^17.4.2",
     "typescript": "^4.2.3"
   }
 }
