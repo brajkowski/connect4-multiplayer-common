@@ -1,6 +1,6 @@
 {
   "name": "@brajkowski/connect4-multiplayer-common",
-  "version": "1.0.0-beta.0",
+  "version": "0.0.0",
   "description": "This library provides shared objects used by both the connect 4 multiplayer client and server.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
