@@ -4,7 +4,8 @@
   "description": "This library provides shared objects used by both the connect 4 multiplayer client and server.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rimraf ./dist && tsc"
   },
   "repository": {
     "type": "git",
