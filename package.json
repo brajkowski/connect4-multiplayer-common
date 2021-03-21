@@ -28,6 +28,9 @@
   "release": {
     "branches": ["main", {"name": "beta", "prerelease": true}]
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "rimraf": "^3.0.2",
     "semantic-release": "^17.4.2",
