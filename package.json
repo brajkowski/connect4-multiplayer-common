@@ -1,0 +1,26 @@
+{
+  "name": "@brajkowski/connect4-multiplayer-common",
+  "version": "1.0.0",
+  "description": "This library provides shared objects used by both the connect 4 multiplayer client and server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brajkowski/connect4-multiplayer-common.git"
+  },
+  "keywords": [
+    "connect4",
+    "multiplayer",
+    "common",
+    "ts",
+    "typescript"
+  ],
+  "author": "Brandon Rajkowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brajkowski/connect4-multiplayer-common/issues"
+  },
+  "homepage": "https://github.com/brajkowski/connect4-multiplayer-common#readme"
+}
