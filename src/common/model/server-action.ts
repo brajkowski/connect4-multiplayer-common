@@ -3,4 +3,5 @@ export enum ServerAction {
   NOT_ALLOWED,
   OPPONENT_JOIN,
   OPPONENT_MOVE,
+  SESSION_CREATED,
 }

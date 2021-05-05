@@ -4,4 +4,5 @@ export interface ServerPacket {
   action: ServerAction;
   user?: string;
   column?: number;
+  newSession?: string;
 }
