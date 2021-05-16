@@ -5,4 +5,5 @@ export interface ServerPacket {
   user?: string;
   column?: number;
   newSession?: string;
+  thisClientStartsFirst?: boolean;
 }
